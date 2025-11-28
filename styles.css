@@ -4,11 +4,11 @@ body{
 }
 
 header{
-    border-bottom: solid 2px rgb(rgb(92, 15, 15));
+    border-bottom: solid 2px rgb(rgb92, 15, 15);
     padding: 20px;
     font-size: 32px;
-    color: rgb(rgb(230, 225, 238));
-    background: rgb(rgb(192, 101, 101));
+    color:rgb(107, 44, 125);
+    background: rgb(236, 204, 204);
 }
 .chamada{
     background: cornsilk;
