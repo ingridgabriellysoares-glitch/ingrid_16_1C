@@ -1,6 +1,6 @@
 body{
-    color:rgb(106, 13, 127);
-    background: rgb(188, 31, 188)
+    color: rgb(84, 22, 142);
+    background: rgb(224, 153, 243);
 }
 
 header{
@@ -25,6 +25,7 @@ p {
     text-align: center;
     font-size: 10px;
 }
+
 .categoria_videos{
     display: flex;
     overflow-x: auto;
