@@ -2,8 +2,11 @@ body{
     color:rgb(80, 11, 96);
     background: rgb(174, 28, 174)
 }
+
 header{
     border-bottom: solid 2px rgb(rgb(181, 10, 10);
+    padding: 20px;
+    font-size: 32px;
 }
 
 p {
