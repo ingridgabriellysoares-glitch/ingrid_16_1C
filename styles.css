@@ -7,8 +7,8 @@ header{
     border-bottom: solid 2px rgb(rgb(92, 15, 15));
     padding: 20px;
     font-size: 32px;
-    color: rgb(67, 4, 4);
-    background: rgb(82, 9, 9);
+    color: rgb(rgb(230, 225, 238));
+    background: rgb(rgb(192, 101, 101));
 }
 .chamada{
     background: cornsilk;
